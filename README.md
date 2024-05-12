@@ -1079,7 +1079,7 @@ C<A> c; // c.y.x has type int, c.z.x has type long
 <details>
 <summary><h3>2. Лямбда-функции – что это такое, зачем нужны. Лямбды, адаптеры, функторы.</h3></summary>
 Лямбда-выражениями называются безымянные локальные функции, которые можно создавать прямо внутри какого-либо выражения.
-Подробнее про лямбды -> [https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170](здесь)
+Подробнее про лямбды -> [здесь](https://learn.microsoft.com/ru-ru/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170)
 
 ```C++
 int main() {
